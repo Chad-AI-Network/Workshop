@@ -1,0 +1,19 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: "ABOUT THIS COURSE"
+  chapters:
+  - file: about/outcomes
+  - file: about/requirements
+  - file: about/instructor-schedule
+  - file: about/course-materials
+  - file: about/acknowledgements
+  - file: about/resources
+- caption: "WEEK 1: Descriptive statistics"
+  chapters:
+  - file: markdown
+  - file: notebooks
+  - file: markdown-notebooks
